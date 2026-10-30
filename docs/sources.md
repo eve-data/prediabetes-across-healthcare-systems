@@ -4,7 +4,11 @@
 
 ### NICE
 
+- https://www.nice.org.uk/guidance/ng28
+
 ### NHS
+
+- https://www.nhs.uk/conditions/type-2-diabetes/
 
 ---
 
